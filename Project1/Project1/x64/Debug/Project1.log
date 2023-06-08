@@ -1,0 +1,287 @@
+﻿  Box.cpp
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Box.cpp(43,57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Box.cpp(43,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  DynamicTexture.cpp
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\DynamicTexture.cpp(10,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\DynamicTexture.cpp(10,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Enemy.cpp
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(24,38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(24,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(314,73): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(314,45): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(317,73): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(317,45): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(320,74): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(320,48): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(323,74): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Enemy.cpp(323,48): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Main.cpp
+  Menu.cpp
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(127,94): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(144,186): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(144,151): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(147,183): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(147,145): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(150,183): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(150,148): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(153,186): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(153,148): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(193,53): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Menu.cpp(205,50): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Player.cpp
+  StaticTexture.cpp
+  Tiles.cpp
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(26,47): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(27,53): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(28,53): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(29,47): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(31,65): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(31,49): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(32,71): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(32,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(33,77): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(33,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(34,71): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(34,49): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(59,69): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(59,53): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(60,75): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(60,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(61,81): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(61,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(62,75): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Michał\Desktop\visual_test\Project1\Project1\Tiles.cpp(62,53): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\Michał\Desktop\visual_test\Project1\x64\Debug\Project1.exe
